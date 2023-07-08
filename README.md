@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zuzubaidillah, callMe zuz
-- 👀 I work as a Front End Developer in PT Onklas Prima Indonesi (SURABAYA)
 - 🏠 in rungkut (SURABAYA)
+- 👀 I work as a Front End Developer in PT Onklas Prima Indonesi (SURABAYA)
 - 🌱 And I'm a Teacher at SMK TI Annajiyah BU Jombang
 - 🧑‍🎓 Alumni SMK TI Annajiyah BU Jombang 2015 (Rekayasa Perangkat Lunak)
 - 🧑‍🎓 Alumni UNWAHA Jombang 2019 (S.Kom)
