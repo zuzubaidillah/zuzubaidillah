@@ -2,7 +2,7 @@
 - 👀 I work as a Front End Developer in PT Onklas Prima Indonesi (SURABAYA)
 - 🏠 in rungkut (SURABAYA)
 - 🌱 And I'm a Teacher at SMK TI Annajiyah BU Jombang
-- 🧑‍🎓 Alumni SMK TI Annajiyah BU Jombang 2015 (Application Desktop)
+- 🧑‍🎓 Alumni SMK TI Annajiyah BU Jombang 2015 (Rekayasa Perangkat Lunak)
 - 🧑‍🎓 Alumni UNWAHA Jombang 2019 (S.Kom)
 - 💞️ married 2021
 - 📫 zuzubaidillah@gmail.com | mubaidillah@smktiannajiyah.sch.id
